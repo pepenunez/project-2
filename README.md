@@ -6,7 +6,7 @@ Kosta: @gleeful-penguin,
 Maha: @mahooi,
 Pepe: @pepenunez
 
-**GitHub repo**: https://github.com/Gleeful-Penguin/butter_team_project
+**GitHub repo**: https://github.com/pepenunez/project-2
 
 
 ## Introduction to the analysis
