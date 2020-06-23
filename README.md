@@ -1,6 +1,11 @@
-# Butter team project: COVID impact on energy consumprion in Spain
+# Team project: COVID impact on energy consumprion in Spain
 
-**Butter team** consists of Ibsy, Kosta, Maha, and Pepe
+**Project team** consists of:
+Ibsy: @IbtisamBeik,
+Kosta: @gleeful-penguin,
+Maha: @mahooi,
+Pepe: @nunpepe
+
 **GitHub repo**: https://github.com/Gleeful-Penguin/butter_team_project
 
 
