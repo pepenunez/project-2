@@ -4,7 +4,7 @@
 Ibsy: @IbtisamBeik,
 Kosta: @gleeful-penguin,
 Maha: @mahooi,
-Pepe: @nunpepe
+Pepe: @pepenunez
 
 **GitHub repo**: https://github.com/Gleeful-Penguin/butter_team_project
 
