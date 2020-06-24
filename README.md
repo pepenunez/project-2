@@ -1,4 +1,4 @@
-# Team project: COVID impact on energy consumprion in Spain
+# Team project: COVID impact on energy consumption in Spain
 
 **Project team** consists of:
 Ibsy: @IbtisamBeik,
