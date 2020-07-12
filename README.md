@@ -7,6 +7,7 @@ Maha: @mahooi,
 Pepe: @pepenunez
 
 **GitHub repo**: https://github.com/pepenunez/project-2
+
 **Time frame**: 3 days
 
 ## Introduction to the analysis
