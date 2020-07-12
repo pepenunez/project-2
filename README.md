@@ -7,7 +7,7 @@ Maha: @mahooi,
 Pepe: @pepenunez
 
 **GitHub repo**: https://github.com/pepenunez/project-2
-
+**Time frame**: 3 days
 
 ## Introduction to the analysis
 We combined two datasets hoping to find the change of energy demand and generation between the period of January and June 2019, and January and June 2020, when COVID had an impact on the energy behavior of people in Spain. We hoped to discover if there was a significant difference between those two years, how was energy created, and was there a significant shift in emissions as a result of it. We discovered an 8% decrease after the introduction of "stay at home" requirements.
